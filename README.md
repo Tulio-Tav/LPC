@@ -1,3 +1,7 @@
+# Versão original Disponível em:
+
+* [LPC](https://github.com/edsonportosilva/LPC)
+
 # Laboratório de Princípios de Comunicações (LPC)
 
 Repositório com material da disciplina de Laboratório de Princípios de Comunicações.
